@@ -28,15 +28,3 @@ A Java Swing desktop application demonstrating core software development concept
 3. Open as existing Java project in IntelliJ
 4. Add JUnit 5 to classpath (Alt+Enter on any @Test annotation)
 5. Run BankingAppUI.java as Java Application
-
-## Project Structure
-src/
-├── banking/
-│   ├── model/
-│   │   └── BankAccount.java
-│   ├── service/
-│   │   └── BankService.java
-│   ├── ui/
-│   │   └── BankingAppUI.java
-│   └── test/
-│       └── BankServiceTest.java
